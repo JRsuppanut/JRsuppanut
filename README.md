@@ -29,25 +29,37 @@ Beginner Game Developer and Programmer
 
 #### Tools
 <p align="left">
+  <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="36" height="36"/>
   </a>
+  
+  <!-- Unreal Engine -->
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="36" height="36"/>
   </a>
-  <a href="https://www.roblox.com/create" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Roblox_Logo_2022.svg" alt="Roblox Studio" title="Roblox Studio" width="36" height="36" />
+  
+  <!-- Roblox Studio -->
+  <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Roblox_Logo_black.svg" alt="Roblox Studio" title="Roblox Studio" width="36" height="36"/>
   </a>
+  
+  <!-- Arduino IDE -->
   <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino IDE" title="Arduino IDE" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" title="Arduino IDE" width="36" height="36"/>
   </a>
+  
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36"/>
   </a>
+  
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36"/>
   </a>
 </p>
+
 
 
 ---
