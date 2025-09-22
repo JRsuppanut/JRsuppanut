@@ -5,8 +5,7 @@ Beginner Game Developer and Programmer
 
 * 🌍  I'm based in Nonthaburi, Thailand  
 * ✉️  You can contact me at [s6801012610154@emial.kmutnb.ac.th](mailto:s6801012610154@emial.kmutnb.ac.th)  
-* 🧠  I'm currently learning Game Development, Processing, Robotics and Software Development  
-* 💬  Ask me about I'm a guitarist too  
+* 🧠  I'm currently learning Game Development, Processing, Robotics, Software Development (and Guitar??)
 
 ---
 
