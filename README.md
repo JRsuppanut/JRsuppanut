@@ -34,7 +34,7 @@ i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36"/>
   </a>
-</p>
+
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -55,7 +55,7 @@ i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
   <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" title="Arduino IDE" width="36" height="36"/>
   </a>
-  
+</p>
 
 
 
