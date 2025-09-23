@@ -39,11 +39,6 @@ i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="36" height="36"/>
   </a>
   
-  <!-- Roblox Studio -->
-  <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Roblox_Logo_black.svg" alt="Roblox Studio" title="Roblox Studio" width="36" height="36"/>
-  </a>
-  
   <!-- Arduino IDE -->
   <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" title="Arduino IDE" width="36" height="36"/>
