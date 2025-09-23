@@ -1,4 +1,4 @@
-Hi 👋 My name is Suppanut Posiri (JR)
+Hi Broters 👋 my name is Suppanut Posiri (JR)
 =========================================================================
 
 Beginner Game Developer and Programmer
