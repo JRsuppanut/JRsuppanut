@@ -5,7 +5,7 @@ i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
 
 * 🌍  I'm based in Chachoengsao, Thailand  
 * ✉️  You can contact me at [s6801012610154@email.kmutnb.ac.th](mailto:s6801012610154@email.kmutnb.ac.th)  
-* 🧠  I'm currently learning Game Development, Processing, Robotics, Software Development (and Guitar??)
+* 🧠  I'm currently learning Game Development, Software Development, Robotics, Processing (and Guitar??)
 
 ---
 
