@@ -77,7 +77,7 @@ i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
 <a href="https://www.github.com/JRsuppanut" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
 </a>
-<a href="https://www.youtube.com/@sara-r" target="_blank" rel="noreferrer">
+<a href="https://www.youtube.com/@sar4-rrrr" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
 </a>
 <a href="https://discord.com/users/sar4rr" target="_blank" rel="noreferrer">
