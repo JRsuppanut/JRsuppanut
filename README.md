@@ -83,7 +83,7 @@ i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
 <a href="https://discord.com/users/sar4rr" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
 </a>
-<a href="https://www.facebook.com/Suppanut Posiri" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/Suppanut Posiri(https://www.facebook.com/jr.suppanut)" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" />
 </a>
 </p>
