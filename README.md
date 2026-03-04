@@ -4,7 +4,6 @@ Hi Broters 👋 my name is Suppanut Posiri (JR)
 i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
 
 * 🌍  I'm based in Chachoengsao, Thailand  
-* ✉️  You can contact me at [s6801012610154@email.kmutnb.ac.th](mailto:s6801012610154@email.kmutnb.ac.th)  ( Temporary email )
 * 🧠  I'm currently learning about Game Development, Software Development and Robotics
 
 ---
