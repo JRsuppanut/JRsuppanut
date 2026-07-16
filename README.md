@@ -54,18 +54,6 @@ i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
 </p>
 
 
-
----
-
-### 📊 GitHub Stats
-![JR's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRsuppanut&show_icons=true&theme=radical)
-
-### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRsuppanut&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=JRsuppanut&theme=onedark)
-
 ---
 
 ### 🌐 Socials
