@@ -1,4 +1,4 @@
-Hi Broters 👋 my name is Suppanut Posiri (JR)
+Suppanut Posiri (JR)
 =========================================================================
 
 i'm a student of Computer Enginnering, Beginner Game Developer and Programmer
