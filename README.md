@@ -2,8 +2,8 @@ Suppanut Posiri (JR)
 =========================================================================
 
 i'm a student of Computer Enginnering, Beginner Game Developer and Software Developer
-* 🌍  Based in Chachoengsao, Thailand  
-* 🧠  Currently interested about Game Development
+* 🧠 Currently learning about Software Development
+* ✨ interested about Game Development
 
 ---
 
